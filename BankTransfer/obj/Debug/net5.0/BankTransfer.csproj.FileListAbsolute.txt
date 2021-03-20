@@ -1,0 +1,16 @@
+C:\Users\bruno\OneDrive\Área de Trabalho\BankTransfer\BankTransfer\bin\Debug\net5.0\BankTransfer.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\BankTransfer\BankTransfer\bin\Debug\net5.0\BankTransfer.deps.json
+C:\Users\bruno\OneDrive\Área de Trabalho\BankTransfer\BankTransfer\bin\Debug\net5.0\BankTransfer.runtimeconfig.json
+C:\Users\bruno\OneDrive\Área de Trabalho\BankTransfer\BankTransfer\bin\Debug\net5.0\BankTransfer.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Área de Trabalho\BankTransfer\BankTransfer\bin\Debug\net5.0\BankTransfer.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\BankTransfer\BankTransfer\bin\Debug\net5.0\ref\BankTransfer.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\BankTransfer\BankTransfer\bin\Debug\net5.0\BankTransfer.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\BankTransfer\BankTransfer\obj\Debug\net5.0\BankTransfer.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\BankTransfer\BankTransfer\obj\Debug\net5.0\BankTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Área de Trabalho\BankTransfer\BankTransfer\obj\Debug\net5.0\BankTransfer.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\BankTransfer\BankTransfer\obj\Debug\net5.0\BankTransfer.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Área de Trabalho\BankTransfer\BankTransfer\obj\Debug\net5.0\BankTransfer.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\BankTransfer\BankTransfer\obj\Debug\net5.0\BankTransfer.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\BankTransfer\BankTransfer\obj\Debug\net5.0\ref\BankTransfer.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\BankTransfer\BankTransfer\obj\Debug\net5.0\BankTransfer.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\BankTransfer\BankTransfer\obj\Debug\net5.0\BankTransfer.genruntimeconfig.cache
